@@ -2,7 +2,7 @@
  *
  * Created by: Rebecca de Boer
  * Created on: Sep 2024
- * This program finds temperature in Kelvin.
+ * This program finds temperature with Kelvin.
 */
 
 basic.clearScreen()
